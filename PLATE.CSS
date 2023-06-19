@@ -1,0 +1,12 @@
+.container{
+	border: 5px solid grey;
+	background-color: lightgrey;
+}
+.row{
+	border: 4px solid grey;
+	background-color: whitesmoke;
+}
+.col{
+	border: 2px solid yellow;
+	background-color: lightblue;
+}

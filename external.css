@@ -1,0 +1,31 @@
+.container{
+	border: 4px solid red;
+}
+.row{
+	border: 2px solid green;
+}
+.col-2{
+	border: 2px solid yellow;
+}
+.col-8{
+	border: 2px solid orange;
+}
+.green{
+	background: green;
+}
+.orange{
+	background: orange;
+}
+.yellow{
+	background: yellow;
+}
+.gray{
+	background: gray;
+}
+a{
+	border: 2px solid black;
+}
+a:hover{
+	color: red;
+	background: green;
+}
